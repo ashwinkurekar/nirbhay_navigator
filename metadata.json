@@ -1,0 +1,9 @@
+{
+  "name": "निर्भय Navigator",
+  "description": "A futuristic, AI-powered women's safety application featuring smart safe routing, real-time tracking, and instant SOS emergency alerts.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}
